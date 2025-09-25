@@ -1,0 +1,41 @@
+leftnav:
+- identifier: 644481b5-a823-7ea8-7b5f-958ed438cc92
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: ddbc9bf0-6f3d-6217-147f-3715dfc28b64
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: eb53f28f-ef93-b24c-a7da-42b2003596cb
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: 50132e53-59cf-660b-f406-b2218f99291a
+  name: Non-Traditional Examples
+  pageRef: /pages/instructor-insights/non-traditional-examples
+  parent: eb53f28f-ef93-b24c-a7da-42b2003596cb
+  weight: 40
+- identifier: c3e56b29-8cb5-fb44-dbbb-2ffe3a575b8e
+  name: "Students\u2019 Emotional Responses"
+  pageRef: /pages/instructor-insights/students2019-emotional-responses
+  parent: eb53f28f-ef93-b24c-a7da-42b2003596cb
+  weight: 50
+- identifier: 356a2119-1910-ebfb-b63d-c19a39570b0e
+  name: Navigating Teaching as a New Instructor
+  pageRef: /pages/instructor-insights/navigating-teaching-as-a-new-instructor
+  parent: eb53f28f-ef93-b24c-a7da-42b2003596cb
+  weight: 60
+- identifier: 99f88aaf-9a4f-71f1-8a67-221ce28fe970
+  name: Writing to Ensure Reading
+  pageRef: /pages/instructor-insights/writing-to-ensure-reading
+  parent: eb53f28f-ef93-b24c-a7da-42b2003596cb
+  weight: 70
+- identifier: 93fbc0ec-9008-d4c4-1709-4a5df49362f8
+  name: Readings and Films
+  pageRef: /pages/readings-and-films
+  weight: 80
+- identifier: 99081c7a-f710-8b3f-957e-4982199d5f25
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 90

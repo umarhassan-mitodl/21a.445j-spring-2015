@@ -34,7 +34,7 @@ Modeling, Sports, and Sexting
 
 During our unit on children, we continued to expose non-traditional examples of trafficking. We analyzed the modeling recruitment industry in Eastern Europe, along with the baseball recruitment industry in Latin America. We then moved on to discuss child exploitation and sex work. This led us into a conversation about children’s presence online and different questions that have been raised recently about sexting, and whether it constitutes child pornography or sexual violence. We also discussed the debates around age of consent when it comes to online images and webcam videos.
 
-During this unit on children, we were fortunate to have a guest lecture by, Marie-Laure Lemineur, the director of [ECPAT International’s](http://www.ecpat.net) SECO (The Sexual Exploitation of Children Online) program. This guest lecture experience allowed students an opportunity to ask questions about sexting, an issue that is very much a part of their generation’s experience.
+During this unit on children, we were fortunate to have a guest lecture by, Marie-Laure Lemineur, the director of {{% resource_link "913d5d0b-ee16-4105-97e6-d566e13b696c" "ECPAT International’s" %}} SECO (The Sexual Exploitation of Children Online) program. This guest lecture experience allowed students an opportunity to ask questions about sexting, an issue that is very much a part of their generation’s experience.
 
 A Live and Complex Issue
 ------------------------
